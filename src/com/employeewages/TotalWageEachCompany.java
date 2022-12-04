@@ -3,6 +3,7 @@ package com.employeewages;
 import java.util.Random;
 
 public class TotalWageEachCompany {
+        
         private static final int isFullTime = 1;
         private static final int isPartTime = 2;
 
