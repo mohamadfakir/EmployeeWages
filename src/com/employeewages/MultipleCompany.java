@@ -1,6 +1,7 @@
 package com.employeewages;
 
     public class MultipleCompany {
+        
         private static final int isFullTime = 1;
         private static final int isPartTime = 2;
         private static final int isAbsent = 0;
