@@ -3,6 +3,7 @@ package com.employeewages;
     import java.util.Random;
 
     public class Case extends PartTimeWage{
+        
         public static final int isFullTime = 1, isPartTime = 2;
         public static int SwitchCase() {
             Random random = new Random();
