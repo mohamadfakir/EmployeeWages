@@ -3,6 +3,7 @@ package com.employeewages;
 import java.util.Random;
 
 public class PresentAbsent {
+        
         public static int Attendence() {
             Random random = new Random();
             int num = random.nextInt(2);
