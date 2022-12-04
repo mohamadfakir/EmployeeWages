@@ -3,6 +3,7 @@ package com.employeewages;
 import java.util.Random;
 
 public class PartTimeWage extends DailyWage{
+        
         public static int Attendece() {
             Random random = new Random();
             int num = random.nextInt(3);
