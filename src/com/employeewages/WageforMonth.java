@@ -1,6 +1,7 @@
 package com.employeewages;
 
     public class WageforMonth extends Case {
+        
         public static final int isFullTime = 1, isPartTime = 2;
 
         public static void main(String[] args) {
