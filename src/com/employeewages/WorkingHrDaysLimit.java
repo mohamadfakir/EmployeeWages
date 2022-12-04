@@ -1,6 +1,7 @@
 package com.employeewages;
 
     public class WorkingHrDaysLimit extends WageforMonth {
+        
         public static final int isFullTime = 1, isPartTime = 2;
         static int max_working_hrs = 100;
         static int days_in_month = 20;
