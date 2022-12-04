@@ -1,6 +1,7 @@
 package com.employeewages;
 
 public class DailyWage extends PresentAbsent {
+    
     public static int wager() {
         int wagePerHr = 20;
         int workingHrs = 8;
